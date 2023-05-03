@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.415b68bc.css",
-    "main.js": "./static/js/main.f6169934.js",
+    "main.css": "./static/css/main.2edef769.css",
+    "main.js": "./static/js/main.e97477bd.js",
     "static/js/787.60667457.chunk.js": "./static/js/787.60667457.chunk.js",
     "static/media/Spiderman.jpg": "./static/media/Spiderman.101ba0b838c3777cb107.jpg",
     "static/media/Targaryen.jpg": "./static/media/Targaryen.b92491d8ae7a5a0c4413.jpg",
@@ -25,7 +25,7 @@
     "static/media/Greyjoy.jpg": "./static/media/Greyjoy.b0c2c34b9a75e76889ab.jpg",
     "static/media/DrStrange.jpg": "./static/media/DrStrange.b7c34d8f7bb2e7c51266.jpg",
     "static/media/Hawkeye.jpg": "./static/media/Hawkeye.46a6650aecc040ff4190.jpg",
-    "static/media/logo.png": ".static/media/logo.2e5d35e4ed842e2230c2.png",
+    "static/media/logo.png": "./static/media/logo.2e5d35e4ed842e2230c2.png",
     "static/media/Arryn.jpg": "./static/media/Arryn.d8151bcd0a834374addb.jpg",
     "static/media/Stark.jpg": "./static/media/Stark.11569c013bc8dd2b8ae7.jpg",
     "static/media/Thor.png": "./static/media/Thor.ba4be0719f8ee358ebea.png",
@@ -35,12 +35,12 @@
     "static/media/Hulk.png": "./static/media/Hulk.49b25aeb1fe36b56d2fb.png",
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "./index.html",
-    "main.415b68bc.css.map": "./static/css/main.415b68bc.css.map",
-    "main.f6169934.js.map": "./static/js/main.f6169934.js.map",
+    "main.2edef769.css.map": "./static/css/main.2edef769.css.map",
+    "main.e97477bd.js.map": "./static/js/main.e97477bd.js.map",
     "787.60667457.chunk.js.map": "./static/js/787.60667457.chunk.js.map"
   },
   "entrypoints": [
-    "./static/css/main.415b68bc.css",
-    "./static/js/main.f6169934.js"
+    "static/css/main.2edef769.css",
+    "static/js/main.e97477bd.js"
   ]
 }
